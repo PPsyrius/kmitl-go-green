@@ -1,0 +1,4 @@
+key: AKIAITZMT5SVSBR4N4QA
+secret key: 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
+endpoint: a3f23zc7he5tzr-ats.iot.ap-southeast-1.amazonaws.com
+https://dynamodb.ap-southeast-1.amazonaws.com/
